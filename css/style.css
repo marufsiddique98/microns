@@ -1,0 +1,129 @@
+.cont1{
+    background-image: url('../img/fusion-free.png');    
+    width: 100%;
+    background-repeat: no-repeat;
+    height: 630px;
+    background-position: center;
+}
+.one{
+    margin-top:150px !important;
+    background-color:transparent !important;
+    text-align: center;
+    width: 500px;
+    color: white;
+    font-family: 'Merriweather', serif;
+    border:1px solid #454545 !important;
+}
+.card {
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px;
+}
+.cont11{
+    padding-right: 40%;
+    padding-left: 40%;
+}
+a p{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: bisque;
+    text-decoration: none;
+}
+.cont2{
+    height: 600px;
+    width: 100%;
+    background-color: #202020;
+}
+.dag1{
+    height:120px;
+    width: 2px;
+    background-color: #D1934A;
+}
+.font{
+    color: #D1934A;
+}
+.hh1{
+    color: white;
+}
+.ff2{
+    text-decoration: none;
+    font-family: 'Merriweather', serif;
+}
+.cont3{
+    width: 100%;
+    height: 1100px;
+    background-color: #181818;
+}
+.dag2{
+    height: 110px;
+    width: 2px;
+    margin-left: 100px;
+    background-color: #D1934A;
+}
+.pp1{
+    margin-left: 98px;
+    color: #D1934A;
+}
+.pp2{
+    color: white;
+    font-size: 60px;
+    padding-left: 97px;
+}
+.pp3{
+    color: white;
+}
+.dag3{
+    height: 110px;
+    width: 2px;
+    background-color: #D1934A;
+}
+.cont4{
+    height: 450px;
+    width: 100%;
+    background-color: #202020;
+}
+.cont5{
+    width: 100%;
+    height: 720px;
+    background-color: #181818;
+}
+.n1{
+    color: white;
+    font-size: 12px;
+    margin-top: 4px;
+}
+.n2{
+    color: White;
+    font-size: 9px;
+}
+.cont6{
+    width: 100%;
+    height: 1000px;
+    background-color: #343434;
+}
+.two{
+    height: 500px !important;
+    width: 800px !important;
+    background-color: #181818 !important;
+}
+label{
+    color: white;
+}
+.sub{
+    background-color: #FEB960 !important;
+    color: black !important;
+    border-color: #D1934A !important;
+}
+.sub:focus{
+    background-color: #FEB960 !important;
+}
+.foot{
+    color: #D1934A;
+    font-size: 80px;
+    padding: 15px;
+}
+.lst{
+    color: white;
+}
